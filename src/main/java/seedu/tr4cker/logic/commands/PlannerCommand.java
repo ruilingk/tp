@@ -13,6 +13,10 @@ import seedu.tr4cker.model.util.GotoDateUtil;
 
 /**
  * Allows user to go to Planner tab or go to specific date/month of calendar in Planner tab.
+ *
+ * Solution below adapted from
+ * https://github.com/AY1920S2-CS2103T-F09-2/main/blob/master/src/main/java/seedu/jelphabot
+ * /logic/commands/CalendarCommand.java
  */
 public class PlannerCommand extends Command {
 

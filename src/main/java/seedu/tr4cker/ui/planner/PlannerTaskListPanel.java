@@ -17,6 +17,10 @@ import seedu.tr4cker.ui.UiPart;
 
 /**
  * Panel containing the list of tasks in Planner.
+ *
+ * Solution below adapted from
+ * https://github.com/AY1920S2-CS2103T-F09-2/main/blob/master/src/main/java/seedu/jelphabot
+ * /ui/CalendarTaskListPanel.java
  */
 public class PlannerTaskListPanel extends UiPart<Region> {
 

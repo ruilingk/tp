@@ -16,6 +16,10 @@ import seedu.tr4cker.model.util.GotoDateUtil;
 
 /**
  * Parses input arguments and creates a new PlannerCommand object.
+ *
+ * Solution below adapted from
+ * https://github.com/AY1920S2-CS2103T-F09-2/main/blob/master/src/main/java/seedu/jelphabot
+ * /logic/parser/CalendarCommandParser.java
  */
 public class PlannerCommandParser implements Parser<PlannerCommand> {
 

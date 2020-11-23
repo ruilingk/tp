@@ -20,6 +20,9 @@ import seedu.tr4cker.ui.UiPart;
 /**
  * An UI component that displays information of PlannerCalendarPanel.
  * Displays the calendar.
+ *
+ * Solution below adapted from
+ * https://github.com/AY1920S2-CS2103T-F09-2/main/blob/master/src/main/java/seedu/jelphabot/ui/CalendarPanel.java
  */
 public class PlannerCalendarPanel extends UiPart<Region> {
 

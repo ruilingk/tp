@@ -21,6 +21,9 @@ import seedu.tr4cker.ui.UiPart;
 /**
  * An UI component that displays information of PlannerDay.
  * Displays details of a day in the calendar.
+ *
+ * Solution below adapted from
+ * https://github.com/AY1920S2-CS2103T-F09-2/main/blob/master/src/main/java/seedu/jelphabot/ui/CalendarDayCard.java
  */
 public class PlannerDayCard extends UiPart<Region> {
 

@@ -20,6 +20,9 @@ import seedu.tr4cker.ui.UiPart;
 /**
  * An UI component that displays Planner tab.
  * Displays the calendar and tasks list.
+ *
+ * Solution below adapted from
+ * https://github.com/AY1920S2-CS2103T-F09-2/main/blob/master/src/main/java/seedu/jelphabot/ui/CalendarMainPanel.java
  */
 public class PlannerTabWindow extends UiPart<Region> {
 

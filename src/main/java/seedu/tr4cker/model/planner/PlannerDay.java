@@ -8,6 +8,10 @@ import seedu.tr4cker.model.util.GotoDateUtil;
 
 /**
  * Represents the calendar in Planner tab.
+ *
+ * Solution below adapted from
+ * https://github.com/AY1920S2-CS2103T-F09-2/main/blob/master/src/main/java/seedu/jelphabot
+ * /model/calendar/CalendarDate.java
  */
 public class PlannerDay {
 

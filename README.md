@@ -16,4 +16,5 @@ What does TR4CKER do?
 [Team Website](https://ay2021s1-cs2103t-t10-2.github.io/tp/)
 
 ### Acknowledgements
-This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
+* This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
+* Image of Soccat from NUS Students Computing Club, 2016, _Soccat_, https://m.facebook.com/nuscomputing/posts/952757871459097
